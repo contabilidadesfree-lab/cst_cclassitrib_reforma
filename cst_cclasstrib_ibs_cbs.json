@@ -15,9 +15,9 @@
     "credito_presumido_fornecedor": falso,
     "credito_presumido_adquirente": falso,
     "credito_operacao_antecedente": falso,
-    "reducao_cbs": 0.,
-    "reducao_ibs_uf": 0.,
-    "reducao_ibs_municipio": 0.
+    "reducao_cbs": 0.0,
+    "reducao_ibs_uf": 0.0,
+    "reducao_ibs_municipio": 0.0
   },
   {
     "cst": "000",
@@ -35,9 +35,9 @@
     "credito_presumido_fornecedor": falso,
     "credito_presumido_adquirente": falso,
     "credito_operacao_antecedente": falso,
-    "reducao_cbs": 0.,
-    "reducao_ibs_uf": 0.,
-    "reducao_ibs_municipio": 0.
+    "reducao_cbs": 0.0,
+    "reducao_ibs_uf": 0.0,
+    "reducao_ibs_municipio": 0.0
   },
   {
     "cst": "000",
@@ -55,9 +55,9 @@
     "credito_presumido_fornecedor": true,
     "credito_presumido_adquirente": falso,
     "credito_operacao_antecedente": falso,
-    "reducao_cbs": 0.,
-    "reducao_ibs_uf": 0.,
-    "reducao_ibs_municipio": 0.
+    "reducao_cbs": 0.0,
+    "reducao_ibs_uf": 0.0,
+    "reducao_ibs_municipio": 0.0
   },
   {
     "cst": "000",
@@ -75,9 +75,9 @@
     "credito_presumido_fornecedor": true,
     "credito_presumido_adquirente": falso,
     "credito_operacao_antecedente": falso,
-    "reducao_cbs": 0.,
-    "reducao_ibs_uf": 0.,
-    "reducao_ibs_municipio": 0.
+    "reducao_cbs": 0.0,
+    "reducao_ibs_uf": 0.0,
+    "reducao_ibs_municipio": 0.0
   },
   {
     "cst": "010",
@@ -95,9 +95,9 @@
     "credito_presumido_fornecedor": falso,
     "credito_presumido_adquirente": falso,
     "credito_operacao_antecedente": falso,
-    "reducao_cbs": 0.,
-    "reducao_ibs_uf": 0.,
-    "reducao_ibs_municipio": 0.
+    "reducao_cbs": 0.0,
+    "reducao_ibs_uf": 0.0,
+    "reducao_ibs_municipio": 0.0
   },
   {
     "cst": "010",
@@ -115,9 +115,9 @@
     "credito_presumido_fornecedor": falso,
     "credito_presumido_adquirente": falso,
     "credito_operacao_antecedente": falso,
-    "reducao_cbs": 0.,
-    "reducao_ibs_uf": 0.,
-    "reducao_ibs_municipio": 0.
+    "reducao_cbs": 0.0,
+    "reducao_ibs_uf": 0.0,
+    "reducao_ibs_municipio": 0.0
   },
   {
     "cst": "011",
@@ -135,9 +135,9 @@
     "credito_presumido_fornecedor": falso,
     "credito_presumido_adquirente": falso,
     "credito_operacao_antecedente": falso,
-    "reducao_cbs": 60.,
-    "reducao_ibs_uf": 60.,
-    "reducao_ibs_municipio": 60.
+    "reducao_cbs": 60.0,
+    "reducao_ibs_uf": 60.0,
+    "reducao_ibs_municipio": 60.0
   },
   {
     "cst": "011",
@@ -155,9 +155,9 @@
     "credito_presumido_fornecedor": falso,
     "credito_presumido_adquirente": falso,
     "credito_operacao_antecedente": falso,
-    "reducao_cbs": 60.,
-    "reducao_ibs_uf": 60.,
-    "reducao_ibs_municipio": 60.
+    "reducao_cbs": 60.0,
+    "reducao_ibs_uf": 60.0,
+    "reducao_ibs_municipio": 60.0
   },
   {
     "cst": "011",
@@ -175,9 +175,9 @@
     "credito_presumido_fornecedor": falso,
     "credito_presumido_adquirente": falso,
     "credito_operacao_antecedente": falso,
-    "reducao_cbs": 60.,
-    "reducao_ibs_uf": 60.,
-    "reducao_ibs_municipio": 60.
+    "reducao_cbs": 60.0,
+    "reducao_ibs_uf": 60.0,
+    "reducao_ibs_municipio": 60.0
   },
   {
     "cst": "011",
@@ -195,9 +195,9 @@
     "credito_presumido_fornecedor": falso,
     "credito_presumido_adquirente": falso,
     "credito_operacao_antecedente": falso,
-    "reducao_cbs": 0.,
-    "reducao_ibs_uf": 0.,
-    "reducao_ibs_municipio": 0.
+    "reducao_cbs": 0.0,
+    "reducao_ibs_uf": 0.0,
+    "reducao_ibs_municipio": 0.0
   },
   {
     "cst": "011",
@@ -215,9 +215,9 @@
     "credito_presumido_fornecedor": falso,
     "credito_presumido_adquirente": falso,
     "credito_operacao_antecedente": falso,
-    "reducao_cbs": 30.,
-    "reducao_ibs_uf": 30.,
-    "reducao_ibs_municipio": 30.
+    "reducao_cbs": 30.0,
+    "reducao_ibs_uf": 30.0,
+    "reducao_ibs_municipio": 30.0
   },
   {
     "cst": "200",
@@ -235,9 +235,9 @@
     "credito_presumido_fornecedor": falso,
     "credito_presumido_adquirente": falso,
     "credito_operacao_antecedente": falso,
-    "reducao_cbs": 0.,
-    "reducao_ibs_uf": 0.,
-    "reducao_ibs_municipio": 0.
+    "reducao_cbs": 0.0,
+    "reducao_ibs_uf": 0.0,
+    "reducao_ibs_municipio": 0.0
   },
   {
     "cst": "200",
@@ -255,9 +255,9 @@
     "credito_presumido_fornecedor": falso,
     "credito_presumido_adquirente": falso,
     "credito_operacao_antecedente": falso,
-    "reducao_cbs": 0.,
-    "reducao_ibs_uf": 0.,
-    "reducao_ibs_municipio": 0.
+    "reducao_cbs": 0.0,
+    "reducao_ibs_uf": 0.0,
+    "reducao_ibs_municipio": 0.0
   },
   {
     "cst": "200",
@@ -275,9 +275,9 @@
     "credito_presumido_fornecedor": falso,
     "credito_presumido_adquirente": falso,
     "credito_operacao_antecedente": falso,
-    "reducao_cbs": 0.,
-    "reducao_ibs_uf": 0.,
-    "reducao_ibs_municipio": 0.
+    "reducao_cbs": 0.0,
+    "reducao_ibs_uf": 0.0,
+    "reducao_ibs_municipio": 0.0
   },
   {
     "cst": "200",
@@ -295,9 +295,9 @@
     "credito_presumido_fornecedor": falso,
     "credito_presumido_adquirente": falso,
     "credito_operacao_antecedente": falso,
-    "reducao_cbs": 0.,
-    "reducao_ibs_uf": 0.,
-    "reducao_ibs_municipio": 0.
+    "reducao_cbs": 0.0,
+    "reducao_ibs_uf": 0.0,
+    "reducao_ibs_municipio": 0.0
   },
   {
     "cst": "200",
@@ -315,9 +315,9 @@
     "credito_presumido_fornecedor": falso,
     "credito_presumido_adquirente": falso,
     "credito_operacao_antecedente": falso,
-    "reducao_cbs": 0.,
-    "reducao_ibs_uf": 0.,
-    "reducao_ibs_municipio": 0.
+    "reducao_cbs": 0.0,
+    "reducao_ibs_uf": 0.0,
+    "reducao_ibs_municipio": 0.0
   },
   {
     "cst": "200",
@@ -335,9 +335,9 @@
     "credito_presumido_fornecedor": falso,
     "credito_presumido_adquirente": falso,
     "credito_operacao_antecedente": falso,
-    "reducao_cbs": 0.,
-    "reducao_ibs_uf": 0.,
-    "reducao_ibs_municipio": 0.
+    "reducao_cbs": 0.0,
+    "reducao_ibs_uf": 0.0,
+    "reducao_ibs_municipio": 0.0
   },
   {
     "cst": "200",
@@ -355,9 +355,9 @@
     "credito_presumido_fornecedor": falso,
     "credito_presumido_adquirente": falso,
     "credito_operacao_antecedente": falso,
-    "reducao_cbs": 0.,
-    "reducao_ibs_uf": 0.,
-    "reducao_ibs_municipio": 0.
+    "reducao_cbs": 0.0,
+    "reducao_ibs_uf": 0.0,
+    "reducao_ibs_municipio": 0.0
   },
   {
     "cst": "200",
@@ -375,9 +375,9 @@
     "credito_presumido_fornecedor": falso,
     "credito_presumido_adquirente": falso,
     "credito_operacao_antecedente": falso,
-    "reducao_cbs": 0.,
-    "reducao_ibs_uf": 0.,
-    "reducao_ibs_municipio": 0.
+    "reducao_cbs": 0.0,
+    "reducao_ibs_uf": 0.0,
+    "reducao_ibs_municipio": 0.0
   },
   {
     "cst": "200",
@@ -395,9 +395,9 @@
     "credito_presumido_fornecedor": falso,
     "credito_presumido_adquirente": falso,
     "credito_operacao_antecedente": falso,
-    "reducao_cbs": 0.,
-    "reducao_ibs_uf": 0.,
-    "reducao_ibs_municipio": 0.
+    "reducao_cbs": 0.0,
+    "reducao_ibs_uf": 0.0,
+    "reducao_ibs_municipio": 0.0
   },
   {
     "cst": "200",
@@ -415,9 +415,9 @@
     "credito_presumido_fornecedor": falso,
     "credito_presumido_adquirente": falso,
     "credito_operacao_antecedente": falso,
-    "reducao_cbs": 0.,
-    "reducao_ibs_uf": 0.,
-    "reducao_ibs_municipio": 0.
+    "reducao_cbs": 0.0,
+    "reducao_ibs_uf": 0.0,
+    "reducao_ibs_municipio": 0.0
   },
   {
     "cst": "200",
@@ -435,9 +435,9 @@
     "credito_presumido_fornecedor": falso,
     "credito_presumido_adquirente": falso,
     "credito_operacao_antecedente": falso,
-    "reducao_cbs": 0.,
-    "reducao_ibs_uf": 0.,
-    "reducao_ibs_municipio": 0.
+    "reducao_cbs": 0.0,
+    "reducao_ibs_uf": 0.0,
+    "reducao_ibs_municipio": 0.0
   },
   {
     "cst": "200",
@@ -455,9 +455,9 @@
     "credito_presumido_fornecedor": falso,
     "credito_presumido_adquirente": falso,
     "credito_operacao_antecedente": falso,
-    "reducao_cbs": 0.,
-    "reducao_ibs_uf": 0.,
-    "reducao_ibs_municipio": 0.
+    "reducao_cbs": 0.0,
+    "reducao_ibs_uf": 0.0,
+    "reducao_ibs_municipio": 0.0
   },
   {
     "cst": "200",
@@ -475,9 +475,9 @@
     "credito_presumido_fornecedor": falso,
     "credito_presumido_adquirente": falso,
     "credito_operacao_antecedente": falso,
-    "reducao_cbs": 0.,
-    "reducao_ibs_uf": 0.,
-    "reducao_ibs_municipio": 0.
+    "reducao_cbs": 0.0,
+    "reducao_ibs_uf": 0.0,
+    "reducao_ibs_municipio": 0.0
   },
   {
     "cst": "200",
@@ -495,9 +495,9 @@
     "credito_presumido_fornecedor": falso,
     "credito_presumido_adquirente": falso,
     "credito_operacao_antecedente": falso,
-    "reducao_cbs": 0.,
-    "reducao_ibs_uf": 0.,
-    "reducao_ibs_municipio": 0.
+    "reducao_cbs": 0.0,
+    "reducao_ibs_uf": 0.0,
+    "reducao_ibs_municipio": 0.0
   },
   {
     "cst": "200",
@@ -515,9 +515,9 @@
     "credito_presumido_fornecedor": falso,
     "credito_presumido_adquirente": falso,
     "credito_operacao_antecedente": falso,
-    "reducao_cbs": 0.,
-    "reducao_ibs_uf": 0.,
-    "reducao_ibs_municipio": 0.
+    "reducao_cbs": 0.0,
+    "reducao_ibs_uf": 0.0,
+    "reducao_ibs_municipio": 0.0
   },
   {
     "cst": "200",
@@ -535,9 +535,9 @@
     "credito_presumido_fornecedor": falso,
     "credito_presumido_adquirente": falso,
     "credito_operacao_antecedente": falso,
-    "reducao_cbs": 0.,
-    "reducao_ibs_uf": 0.,
-    "reducao_ibs_municipio": 0.
+    "reducao_cbs": 0.0,
+    "reducao_ibs_uf": 0.0,
+    "reducao_ibs_municipio": 0.0
   },
   {
     "cst": "200",
@@ -555,9 +555,9 @@
     "credito_presumido_fornecedor": falso,
     "credito_presumido_adquirente": falso,
     "credito_operacao_antecedente": falso,
-    "reducao_cbs": 0.,
-    "reducao_ibs_uf": 0.,
-    "reducao_ibs_municipio": 0.
+    "reducao_cbs": 0.0,
+    "reducao_ibs_uf": 0.0,
+    "reducao_ibs_municipio": 0.0
   },
   {
     "cst": "200",
@@ -575,9 +575,9 @@
     "credito_presumido_fornecedor": falso,
     "credito_presumido_adquirente": falso,
     "credito_operacao_antecedente": falso,
-    "reducao_cbs": 0.,
-    "reducao_ibs_uf": 0.,
-    "reducao_ibs_municipio": 0.
+    "reducao_cbs": 0.0,
+    "reducao_ibs_uf": 0.0,
+    "reducao_ibs_municipio": 0.0
   },
   {
     "cst": "200",
@@ -595,9 +595,9 @@
     "credito_presumido_fornecedor": falso,
     "credito_presumido_adquirente": falso,
     "credito_operacao_antecedente": falso,
-    "reducao_cbs": 0.,
-    "reducao_ibs_uf": 0.,
-    "reducao_ibs_municipio": 0.
+    "reducao_cbs": 0.0,
+    "reducao_ibs_uf": 0.0,
+    "reducao_ibs_municipio": 0.0
   },
   {
     "cst": "200",
@@ -615,9 +615,9 @@
     "credito_presumido_fornecedor": falso,
     "credito_presumido_adquirente": falso,
     "credito_operacao_antecedente": falso,
-    "reducao_cbs": 0.,
-    "reducao_ibs_uf": 0.,
-    "reducao_ibs_municipio": 0.
+    "reducao_cbs": 0.0,
+    "reducao_ibs_uf": 0.0,
+    "reducao_ibs_municipio": 0.0
   },
   {
     "cst": "200",
@@ -635,9 +635,9 @@
     "credito_presumido_fornecedor": falso,
     "credito_presumido_adquirente": falso,
     "credito_operacao_antecedente": falso,
-    "reducao_cbs": 0.,
-    "reducao_ibs_uf": 0.,
-    "reducao_ibs_municipio": 0.
+    "reducao_cbs": 0.0,
+    "reducao_ibs_uf": 0.0,
+    "reducao_ibs_municipio": 0.0
   },
   {
     "cst": "200",
@@ -655,9 +655,9 @@
     "credito_presumido_fornecedor": falso,
     "credito_presumido_adquirente": true,
     "credito_operacao_antecedente": falso,
-    "reducao_cbs": 0.,
-    "reducao_ibs_uf": 0.,
-    "reducao_ibs_municipio": 0.
+    "reducao_cbs": 0.0,
+    "reducao_ibs_uf": 0.0,
+    "reducao_ibs_municipio": 0.0
   },
   {
     "cst": "200",
@@ -675,9 +675,9 @@
     "credito_presumido_fornecedor": falso,
     "credito_presumido_adquirente": falso,
     "credito_operacao_antecedente": falso,
-    "reducao_cbs": 0.,
-    "reducao_ibs_uf": 0.,
-    "reducao_ibs_municipio": 0.
+    "reducao_cbs": 0.0,
+    "reducao_ibs_uf": 0.0,
+    "reducao_ibs_municipio": 0.0
   },
   {
     "cst": "200",
@@ -695,9 +695,9 @@
     "credito_presumido_fornecedor": falso,
     "credito_presumido_adquirente": falso,
     "credito_operacao_antecedente": falso,
-    "reducao_cbs": 0.,
-    "reducao_ibs_uf": 0.,
-    "reducao_ibs_municipio": 0.
+    "reducao_cbs": 0.0,
+    "reducao_ibs_uf": 0.0,
+    "reducao_ibs_municipio": 0.0
   },
   {
     "cst": "200",
@@ -715,9 +715,9 @@
     "credito_presumido_fornecedor": falso,
     "credito_presumido_adquirente": falso,
     "credito_operacao_antecedente": falso,
-    "reducao_cbs": 100.,
-    "reducao_ibs_uf": 60.,
-    "reducao_ibs_municipio": 60.
+    "reducao_cbs": 100.0,
+    "reducao_ibs_uf": 60.0,
+    "reducao_ibs_municipio": 60.0
   },
   {
     "cst": "200",
@@ -735,9 +735,9 @@
     "credito_presumido_fornecedor": falso,
     "credito_presumido_adquirente": falso,
     "credito_operacao_antecedente": falso,
-    "reducao_cbs": 80.,
-    "reducao_ibs_uf": 80.,
-    "reducao_ibs_municipio": 80.
+    "reducao_cbs": 80.0,
+    "reducao_ibs_uf": 80.0,
+    "reducao_ibs_municipio": 80.0
   },
   {
     "cst": "200",
@@ -755,9 +755,9 @@
     "credito_presumido_fornecedor": falso,
     "credito_presumido_adquirente": falso,
     "credito_operacao_antecedente": falso,
-    "reducao_cbs": 70.,
-    "reducao_ibs_uf": 70.,
-    "reducao_ibs_municipio": 70.
+    "reducao_cbs": 70.0,
+    "reducao_ibs_uf": 70.0,
+    "reducao_ibs_municipio": 70.0
   },
   {
     "cst": "200",
@@ -775,9 +775,9 @@
     "credito_presumido_fornecedor": falso,
     "credito_presumido_adquirente": falso,
     "credito_operacao_antecedente": falso,
-    "reducao_cbs": 60.,
-    "reducao_ibs_uf": 60.,
-    "reducao_ibs_municipio": 60.
+    "reducao_cbs": 60.0,
+    "reducao_ibs_uf": 60.0,
+    "reducao_ibs_municipio": 60.0
   },
   {
     "cst": "200",
@@ -795,9 +795,9 @@
     "credito_presumido_fornecedor": falso,
     "credito_presumido_adquirente": falso,
     "credito_operacao_antecedente": falso,
-    "reducao_cbs": 60.,
-    "reducao_ibs_uf": 60.,
-    "reducao_ibs_municipio": 60.
+    "reducao_cbs": 60.0,
+    "reducao_ibs_uf": 60.0,
+    "reducao_ibs_municipio": 60.0
   },
   {
     "cst": "200",
@@ -815,9 +815,9 @@
     "credito_presumido_fornecedor": falso,
     "credito_presumido_adquirente": falso,
     "credito_operacao_antecedente": falso,
-    "reducao_cbs": 60.,
-    "reducao_ibs_uf": 60.,
-    "reducao_ibs_municipio": 60.
+    "reducao_cbs": 60.0,
+    "reducao_ibs_uf": 60.0,
+    "reducao_ibs_municipio": 60.0
   },
   {
     "cst": "200",
@@ -835,9 +835,9 @@
     "credito_presumido_fornecedor": falso,
     "credito_presumido_adquirente": falso,
     "credito_operacao_antecedente": falso,
-    "reducao_cbs": 60.,
-    "reducao_ibs_uf": 60.,
-    "reducao_ibs_municipio": 60.
+    "reducao_cbs": 60.0,
+    "reducao_ibs_uf": 60.0,
+    "reducao_ibs_municipio": 60.0
   },
   {
     "cst": "200",
@@ -855,9 +855,9 @@
     "credito_presumido_fornecedor": falso,
     "credito_presumido_adquirente": falso,
     "credito_operacao_antecedente": falso,
-    "reducao_cbs": 60.,
-    "reducao_ibs_uf": 60.,
-    "reducao_ibs_municipio": 60.
+    "reducao_cbs": 60.0,
+    "reducao_ibs_uf": 60.0,
+    "reducao_ibs_municipio": 60.0
   },
   {
     "cst": "200",
@@ -875,9 +875,9 @@
     "credito_presumido_fornecedor": falso,
     "credito_presumido_adquirente": falso,
     "credito_operacao_antecedente": falso,
-    "reducao_cbs": 60.,
-    "reducao_ibs_uf": 60.,
-    "reducao_ibs_municipio": 60.
+    "reducao_cbs": 60.0,
+    "reducao_ibs_uf": 60.0,
+    "reducao_ibs_municipio": 60.0
   },
   {
     "cst": "200",
@@ -895,9 +895,9 @@
     "credito_presumido_fornecedor": falso,
     "credito_presumido_adquirente": falso,
     "credito_operacao_antecedente": falso,
-    "reducao_cbs": 60.,
-    "reducao_ibs_uf": 60.,
-    "reducao_ibs_municipio": 60.
+    "reducao_cbs": 60.0,
+    "reducao_ibs_uf": 60.0,
+    "reducao_ibs_municipio": 60.0
   },
   {
     "cst": "200",
@@ -915,9 +915,9 @@
     "credito_presumido_fornecedor": falso,
     "credito_presumido_adquirente": falso,
     "credito_operacao_antecedente": falso,
-    "reducao_cbs": 60.,
-    "reducao_ibs_uf": 60.,
-    "reducao_ibs_municipio": 60.
+    "reducao_cbs": 60.0,
+    "reducao_ibs_uf": 60.0,
+    "reducao_ibs_municipio": 60.0
   },
   {
     "cst": "200",
@@ -935,9 +935,9 @@
     "credito_presumido_fornecedor": falso,
     "credito_presumido_adquirente": falso,
     "credito_operacao_antecedente": falso,
-    "reducao_cbs": 60.,
-    "reducao_ibs_uf": 60.,
-    "reducao_ibs_municipio": 60.
+    "reducao_cbs": 60.0,
+    "reducao_ibs_uf": 60.0,
+    "reducao_ibs_municipio": 60.0
   },
   {
     "cst": "200",
@@ -955,9 +955,9 @@
     "credito_presumido_fornecedor": falso,
     "credito_presumido_adquirente": falso,
     "credito_operacao_antecedente": falso,
-    "reducao_cbs": 60.,
-    "reducao_ibs_uf": 60.,
-    "reducao_ibs_municipio": 60.
+    "reducao_cbs": 60.0,
+    "reducao_ibs_uf": 60.0,
+    "reducao_ibs_municipio": 60.0
   },
   {
     "cst": "200",
@@ -975,9 +975,9 @@
     "credito_presumido_fornecedor": falso,
     "credito_presumido_adquirente": falso,
     "credito_operacao_antecedente": falso,
-    "reducao_cbs": 60.,
-    "reducao_ibs_uf": 60.,
-    "reducao_ibs_municipio": 60.
+    "reducao_cbs": 60.0,
+    "reducao_ibs_uf": 60.0,
+    "reducao_ibs_municipio": 60.0
   },
   {
     "cst": "200",
@@ -995,9 +995,9 @@
     "credito_presumido_fornecedor": falso,
     "credito_presumido_adquirente": falso,
     "credito_operacao_antecedente": falso,
-    "reducao_cbs": 60.,
-    "reducao_ibs_uf": 60.,
-    "reducao_ibs_municipio": 60.
+    "reducao_cbs": 60.0,
+    "reducao_ibs_uf": 60.0,
+    "reducao_ibs_municipio": 60.0
   },
   {
     "cst": "200",
@@ -1015,9 +1015,9 @@
     "credito_presumido_fornecedor": falso,
     "credito_presumido_adquirente": falso,
     "credito_operacao_antecedente": falso,
-    "reducao_cbs": 60.,
-    "reducao_ibs_uf": 60.,
-    "reducao_ibs_municipio": 60.
+    "reducao_cbs": 60.0,
+    "reducao_ibs_uf": 60.0,
+    "reducao_ibs_municipio": 60.0
   },
   {
     "cst": "200",
@@ -1035,9 +1035,9 @@
     "credito_presumido_fornecedor": falso,
     "credito_presumido_adquirente": falso,
     "credito_operacao_antecedente": falso,
-    "reducao_cbs": 60.,
-    "reducao_ibs_uf": 60.,
-    "reducao_ibs_municipio": 60.
+    "reducao_cbs": 60.0,
+    "reducao_ibs_uf": 60.0,
+    "reducao_ibs_municipio": 60.0
   },
   {
     "cst": "200",
@@ -1055,9 +1055,9 @@
     "credito_presumido_fornecedor": falso,
     "credito_presumido_adquirente": falso,
     "credito_operacao_antecedente": falso,
-    "reducao_cbs": 60.,
-    "reducao_ibs_uf": 60.,
-    "reducao_ibs_municipio": 60.
+    "reducao_cbs": 60.0,
+    "reducao_ibs_uf": 60.0,
+    "reducao_ibs_municipio": 60.0
   },
   {
     "cst": "200",
@@ -1075,9 +1075,9 @@
     "credito_presumido_fornecedor": falso,
     "credito_presumido_adquirente": falso,
     "credito_operacao_antecedente": falso,
-    "reducao_cbs": 60.,
-    "reducao_ibs_uf": 60.,
-    "reducao_ibs_municipio": 60.
+    "reducao_cbs": 60.0,
+    "reducao_ibs_uf": 60.0,
+    "reducao_ibs_municipio": 60.0
   },
   {
     "cst": "200",
@@ -1095,9 +1095,9 @@
     "credito_presumido_fornecedor": falso,
     "credito_presumido_adquirente": falso,
     "credito_operacao_antecedente": falso,
-    "reducao_cbs": 60.,
-    "reducao_ibs_uf": 60.,
-    "reducao_ibs_municipio": 60.
+    "reducao_cbs": 60.0,
+    "reducao_ibs_uf": 60.0,
+    "reducao_ibs_municipio": 60.0
   },
   {
     "cst": "200",
@@ -1115,9 +1115,9 @@
     "credito_presumido_fornecedor": falso,
     "credito_presumido_adquirente": falso,
     "credito_operacao_antecedente": falso,
-    "reducao_cbs": 60.,
-    "reducao_ibs_uf": 60.,
-    "reducao_ibs_municipio": 60.
+    "reducao_cbs": 60.0,
+    "reducao_ibs_uf": 60.0,
+    "reducao_ibs_municipio": 60.0
   },
   {
     "cst": "200",
@@ -1135,9 +1135,9 @@
     "credito_presumido_fornecedor": falso,
     "credito_presumido_adquirente": falso,
     "credito_operacao_antecedente": falso,
-    "reducao_cbs": 50.,
-    "reducao_ibs_uf": 50.,
-    "reducao_ibs_municipio": 50.
+    "reducao_cbs": 50.0,
+    "reducao_ibs_uf": 50.0,
+    "reducao_ibs_municipio": 50.0
   },
   {
     "cst": "200",
@@ -1155,9 +1155,9 @@
     "credito_presumido_fornecedor": falso,
     "credito_presumido_adquirente": falso,
     "credito_operacao_antecedente": falso,
-    "reducao_cbs": 40.,
-    "reducao_ibs_uf": 40.,
-    "reducao_ibs_municipio": 40.
+    "reducao_cbs": 40.0,
+    "reducao_ibs_uf": 40.0,
+    "reducao_ibs_municipio": 40.0
   },
   {
     "cst": "200",
@@ -1175,9 +1175,9 @@
     "credito_presumido_fornecedor": falso,
     "credito_presumido_adquirente": falso,
     "credito_operacao_antecedente": falso,
-    "reducao_cbs": 40.,
-    "reducao_ibs_uf": 40.,
-    "reducao_ibs_municipio": 40.
+    "reducao_cbs": 40.0,
+    "reducao_ibs_uf": 40.0,
+    "reducao_ibs_municipio": 40.0
   },
   {
     "cst": "200",
@@ -1195,9 +1195,9 @@
     "credito_presumido_fornecedor": falso,
     "credito_presumido_adquirente": falso,
     "credito_operacao_antecedente": falso,
-    "reducao_cbs": 40.,
-    "reducao_ibs_uf": 40.,
-    "reducao_ibs_municipio": 40.
+    "reducao_cbs": 40.0,
+    "reducao_ibs_uf": 40.0,
+    "reducao_ibs_municipio": 40.0
   },
   {
     "cst": "200",
@@ -1215,9 +1215,9 @@
     "credito_presumido_fornecedor": falso,
     "credito_presumido_adquirente": falso,
     "credito_operacao_antecedente": falso,
-    "reducao_cbs": 40.,
-    "reducao_ibs_uf": 40.,
-    "reducao_ibs_municipio": 40.
+    "reducao_cbs": 40.0,
+    "reducao_ibs_uf": 40.0,
+    "reducao_ibs_municipio": 40.0
   },
   {
     "cst": "200",
@@ -1235,9 +1235,9 @@
     "credito_presumido_fornecedor": falso,
     "credito_presumido_adquirente": falso,
     "credito_operacao_antecedente": falso,
-    "reducao_cbs": 40.,
-    "reducao_ibs_uf": 40.,
-    "reducao_ibs_municipio": 40.
+    "reducao_cbs": 40.0,
+    "reducao_ibs_uf": 40.0,
+    "reducao_ibs_municipio": 40.0
   },
   {
     "cst": "200",
@@ -1255,9 +1255,9 @@
     "credito_presumido_fornecedor": falso,
     "credito_presumido_adquirente": falso,
     "credito_operacao_antecedente": falso,
-    "reducao_cbs": 30.,
-    "reducao_ibs_uf": 30.,
-    "reducao_ibs_municipio": 30.
+    "reducao_cbs": 30.0,
+    "reducao_ibs_uf": 30.0,
+    "reducao_ibs_municipio": 30.0
   },
   {
     "cst": "220",
@@ -1275,9 +1275,9 @@
     "credito_presumido_fornecedor": falso,
     "credito_presumido_adquirente": falso,
     "credito_operacao_antecedente": falso,
-    "reducao_cbs": 0.,
-    "reducao_ibs_uf": 0.,
-    "reducao_ibs_municipio": 0.
+    "reducao_cbs": 0.0,
+    "reducao_ibs_uf": 0.0,
+    "reducao_ibs_municipio": 0.0
   },
   {
     "cst": "220",
@@ -1295,9 +1295,9 @@
     "credito_presumido_fornecedor": falso,
     "credito_presumido_adquirente": falso,
     "credito_operacao_antecedente": falso,
-    "reducao_cbs": 0.,
-    "reducao_ibs_uf": 0.,
-    "reducao_ibs_municipio": 0.
+    "reducao_cbs": 0.0,
+    "reducao_ibs_uf": 0.0,
+    "reducao_ibs_municipio": 0.0
   },
   {
     "cst": "220",
@@ -1315,9 +1315,9 @@
     "credito_presumido_fornecedor": falso,
     "credito_presumido_adquirente": falso,
     "credito_operacao_antecedente": falso,
-    "reducao_cbs": 0.,
-    "reducao_ibs_uf": 0.,
-    "reducao_ibs_municipio": 0.
+    "reducao_cbs": 0.0,
+    "reducao_ibs_uf": 0.0,
+    "reducao_ibs_municipio": 0.0
   },
   {
     "cst": "220",
@@ -1335,9 +1335,9 @@
     "credito_presumido_fornecedor": falso,
     "credito_presumido_adquirente": falso,
     "credito_operacao_antecedente": falso,
-    "reducao_cbs": 0.,
-    "reducao_ibs_uf": 0.,
-    "reducao_ibs_municipio": 0.
+    "reducao_cbs": 0.0,
+    "reducao_ibs_uf": 0.0,
+    "reducao_ibs_municipio": 0.0
   },
   {
     "cst": "221",
@@ -1355,9 +1355,9 @@
     "credito_presumido_fornecedor": falso,
     "credito_presumido_adquirente": falso,
     "credito_operacao_antecedente": falso,
-    "reducao_cbs": 0.,
-    "reducao_ibs_uf": 0.,
-    "reducao_ibs_municipio": 0.
+    "reducao_cbs": 0.0,
+    "reducao_ibs_uf": 0.0,
+    "reducao_ibs_municipio": 0.0
   },
   {
     "cst": "222",
@@ -1375,9 +1375,9 @@
     "credito_presumido_fornecedor": falso,
     "credito_presumido_adquirente": falso,
     "credito_operacao_antecedente": falso,
-    "reducao_cbs": 0.,
-    "reducao_ibs_uf": 0.,
-    "reducao_ibs_municipio": 0.
+    "reducao_cbs": 0.0,
+    "reducao_ibs_uf": 0.0,
+    "reducao_ibs_municipio": 0.0
   },
   {
     "cst": "400",
@@ -1395,9 +1395,9 @@
     "credito_presumido_fornecedor": falso,
     "credito_presumido_adquirente": falso,
     "credito_operacao_antecedente": falso,
-    "reducao_cbs": 0.,
-    "reducao_ibs_uf": 0.,
-    "reducao_ibs_municipio": 0.
+    "reducao_cbs": 0.0,
+    "reducao_ibs_uf": 0.0,
+    "reducao_ibs_municipio": 0.0
   },
   {
     "cst": "410",
@@ -1415,9 +1415,9 @@
     "credito_presumido_fornecedor": falso,
     "credito_presumido_adquirente": falso,
     "credito_operacao_antecedente": falso,
-    "reducao_cbs": 0.,
-    "reducao_ibs_uf": 0.,
-    "reducao_ibs_municipio": 0.
+    "reducao_cbs": 0.0,
+    "reducao_ibs_uf": 0.0,
+    "reducao_ibs_municipio": 0.0
   },
   {
     "cst": "410",
@@ -1435,9 +1435,9 @@
     "credito_presumido_fornecedor": falso,
     "credito_presumido_adquirente": falso,
     "credito_operacao_antecedente": falso,
-    "reducao_cbs": 0.,
-    "reducao_ibs_uf": 0.,
-    "reducao_ibs_municipio": 0.
+    "reducao_cbs": 0.0,
+    "reducao_ibs_uf": 0.0,
+    "reducao_ibs_municipio": 0.0
   },
   {
     "cst": "410",
@@ -1455,9 +1455,9 @@
     "credito_presumido_fornecedor": falso,
     "credito_presumido_adquirente": falso,
     "credito_operacao_antecedente": falso,
-    "reducao_cbs": 0.,
-    "reducao_ibs_uf": 0.,
-    "reducao_ibs_municipio": 0.
+    "reducao_cbs": 0.0,
+    "reducao_ibs_uf": 0.0,
+    "reducao_ibs_municipio": 0.0
   },
   {
     "cst": "410",
@@ -1475,9 +1475,9 @@
     "credito_presumido_fornecedor": falso,
     "credito_presumido_adquirente": falso,
     "credito_operacao_antecedente": falso,
-    "reducao_cbs": 0.,
-    "reducao_ibs_uf": 0.,
-    "reducao_ibs_municipio": 0.
+    "reducao_cbs": 0.0,
+    "reducao_ibs_uf": 0.0,
+    "reducao_ibs_municipio": 0.0
   },
   {
     "cst": "410",
@@ -1495,9 +1495,9 @@
     "credito_presumido_fornecedor": falso,
     "credito_presumido_adquirente": falso,
     "credito_operacao_antecedente": falso,
-    "reducao_cbs": 0.,
-    "reducao_ibs_uf": 0.,
-    "reducao_ibs_municipio": 0.
+    "reducao_cbs": 0.0,
+    "reducao_ibs_uf": 0.0,
+    "reducao_ibs_municipio": 0.0
   },
   {
     "cst": "410",
@@ -1515,9 +1515,9 @@
     "credito_presumido_fornecedor": falso,
     "credito_presumido_adquirente": falso,
     "credito_operacao_antecedente": falso,
-    "reducao_cbs": 0.,
-    "reducao_ibs_uf": 0.,
-    "reducao_ibs_municipio": 0.
+    "reducao_cbs": 0.0,
+    "reducao_ibs_uf": 0.0,
+    "reducao_ibs_municipio": 0.0
   },
   {
     "cst": "410",
@@ -1535,9 +1535,9 @@
     "credito_presumido_fornecedor": falso,
     "credito_presumido_adquirente": falso,
     "credito_operacao_antecedente": falso,
-    "reducao_cbs": 0.,
-    "reducao_ibs_uf": 0.,
-    "reducao_ibs_municipio": 0.
+    "reducao_cbs": 0.0,
+    "reducao_ibs_uf": 0.0,
+    "reducao_ibs_municipio": 0.0
   },
   {
     "cst": "410",
@@ -1555,9 +1555,9 @@
     "credito_presumido_fornecedor": falso,
     "credito_presumido_adquirente": falso,
     "credito_operacao_antecedente": falso,
-    "reducao_cbs": 0.,
-    "reducao_ibs_uf": 0.,
-    "reducao_ibs_municipio": 0.
+    "reducao_cbs": 0.0,
+    "reducao_ibs_uf": 0.0,
+    "reducao_ibs_municipio": 0.0
   },
   {
     "cst": "410",
@@ -1575,9 +1575,9 @@
     "credito_presumido_fornecedor": falso,
     "credito_presumido_adquirente": falso,
     "credito_operacao_antecedente": falso,
-    "reducao_cbs": 0.,
-    "reducao_ibs_uf": 0.,
-    "reducao_ibs_municipio": 0.
+    "reducao_cbs": 0.0,
+    "reducao_ibs_uf": 0.0,
+    "reducao_ibs_municipio": 0.0
   },
   {
     "cst": "410",
@@ -1595,9 +1595,9 @@
     "credito_presumido_fornecedor": falso,
     "credito_presumido_adquirente": falso,
     "credito_operacao_antecedente": falso,
-    "reducao_cbs": 0.,
-    "reducao_ibs_uf": 0.,
-    "reducao_ibs_municipio": 0.
+    "reducao_cbs": 0.0,
+    "reducao_ibs_uf": 0.0,
+    "reducao_ibs_municipio": 0.0
   },
   {
     "cst": "410",
@@ -1615,9 +1615,9 @@
     "credito_presumido_fornecedor": falso,
     "credito_presumido_adquirente": falso,
     "credito_operacao_antecedente": falso,
-    "reducao_cbs": 0.,
-    "reducao_ibs_uf": 0.,
-    "reducao_ibs_municipio": 0.
+    "reducao_cbs": 0.0,
+    "reducao_ibs_uf": 0.0,
+    "reducao_ibs_municipio": 0.0
   },
   {
     "cst": "410",
@@ -1635,9 +1635,9 @@
     "credito_presumido_fornecedor": falso,
     "credito_presumido_adquirente": falso,
     "credito_operacao_antecedente": falso,
-    "reducao_cbs": 0.,
-    "reducao_ibs_uf": 0.,
-    "reducao_ibs_municipio": 0.
+    "reducao_cbs": 0.0,
+    "reducao_ibs_uf": 0.0,
+    "reducao_ibs_municipio": 0.0
   },
   {
     "cst": "410",
@@ -1655,9 +1655,9 @@
     "credito_presumido_fornecedor": falso,
     "credito_presumido_adquirente": falso,
     "credito_operacao_antecedente": falso,
-    "reducao_cbs": 0.,
-    "reducao_ibs_uf": 0.,
-    "reducao_ibs_municipio": 0.
+    "reducao_cbs": 0.0,
+    "reducao_ibs_uf": 0.0,
+    "reducao_ibs_municipio": 0.0
   },
   {
     "cst": "410",
@@ -1675,9 +1675,9 @@
     "credito_presumido_fornecedor": true,
     "credito_presumido_adquirente": true,
     "credito_operacao_antecedente": falso,
-    "reducao_cbs": 0.,
-    "reducao_ibs_uf": 0.,
-    "reducao_ibs_municipio": 0.
+    "reducao_cbs": 0.0,
+    "reducao_ibs_uf": 0.0,
+    "reducao_ibs_municipio": 0.0
   },
   {
     "cst": "410",
@@ -1695,9 +1695,9 @@
     "credito_presumido_fornecedor": true,
     "credito_presumido_adquirente": true,
     "credito_operacao_antecedente": falso,
-    "reducao_cbs": 0.,
-    "reducao_ibs_uf": 0.,
-    "reducao_ibs_municipio": 0.
+    "reducao_cbs": 0.0,
+    "reducao_ibs_uf": 0.0,
+    "reducao_ibs_municipio": 0.0
   },
   {
     "cst": "410",
@@ -1715,9 +1715,9 @@
     "credito_presumido_fornecedor": falso,
     "credito_presumido_adquirente": falso,
     "credito_operacao_antecedente": falso,
-    "reducao_cbs": 0.,
-    "reducao_ibs_uf": 0.,
-    "reducao_ibs_municipio": 0.
+    "reducao_cbs": 0.0,
+    "reducao_ibs_uf": 0.0,
+    "reducao_ibs_municipio": 0.0
   },
   {
     "cst": "410",
@@ -1735,9 +1735,9 @@
     "credito_presumido_fornecedor": true,
     "credito_presumido_adquirente": true,
     "credito_operacao_antecedente": falso,
-    "reducao_cbs": 0.,
-    "reducao_ibs_uf": 0.,
-    "reducao_ibs_municipio": 0.
+    "reducao_cbs": 0.0,
+    "reducao_ibs_uf": 0.0,
+    "reducao_ibs_municipio": 0.0
   },
   {
     "cst": "410",
@@ -1755,9 +1755,9 @@
     "credito_presumido_fornecedor": falso,
     "credito_presumido_adquirente": falso,
     "credito_operacao_antecedente": falso,
-    "reducao_cbs": 0.,
-    "reducao_ibs_uf": 0.,
-    "reducao_ibs_municipio": 0.
+    "reducao_cbs": 0.0,
+    "reducao_ibs_uf": 0.0,
+    "reducao_ibs_municipio": 0.0
   },
   {
     "cst": "410",
@@ -1775,9 +1775,9 @@
     "credito_presumido_fornecedor": falso,
     "credito_presumido_adquirente": falso,
     "credito_operacao_antecedente": falso,
-    "reducao_cbs": 0.,
-    "reducao_ibs_uf": 0.,
-    "reducao_ibs_municipio": 0.
+    "reducao_cbs": 0.0,
+    "reducao_ibs_uf": 0.0,
+    "reducao_ibs_municipio": 0.0
   },
   {
     "cst": "410",
@@ -1795,9 +1795,9 @@
     "credito_presumido_fornecedor": falso,
     "credito_presumido_adquirente": falso,
     "credito_operacao_antecedente": falso,
-    "reducao_cbs": 0.,
-    "reducao_ibs_uf": 0.,
-    "reducao_ibs_municipio": 0.
+    "reducao_cbs": 0.0,
+    "reducao_ibs_uf": 0.0,
+    "reducao_ibs_municipio": 0.0
   },
   {
     "cst": "410",
@@ -1815,9 +1815,9 @@
     "credito_presumido_fornecedor": falso,
     "credito_presumido_adquirente": falso,
     "credito_operacao_antecedente": falso,
-    "reducao_cbs": 0.,
-    "reducao_ibs_uf": 0.,
-    "reducao_ibs_municipio": 0.
+    "reducao_cbs": 0.0,
+    "reducao_ibs_uf": 0.0,
+    "reducao_ibs_municipio": 0.0
   },
   {
     "cst": "410",
@@ -1835,9 +1835,9 @@
     "credito_presumido_fornecedor": falso,
     "credito_presumido_adquirente": falso,
     "credito_operacao_antecedente": falso,
-    "reducao_cbs": 0.,
-    "reducao_ibs_uf": 0.,
-    "reducao_ibs_municipio": 0.
+    "reducao_cbs": 0.0,
+    "reducao_ibs_uf": 0.0,
+    "reducao_ibs_municipio": 0.0
   },
   {
     "cst": "410",
@@ -1855,9 +1855,9 @@
     "credito_presumido_fornecedor": falso,
     "credito_presumido_adquirente": falso,
     "credito_operacao_antecedente": falso,
-    "reducao_cbs": 0.,
-    "reducao_ibs_uf": 0.,
-    "reducao_ibs_municipio": 0.
+    "reducao_cbs": 0.0,
+    "reducao_ibs_uf": 0.0,
+    "reducao_ibs_municipio": 0.0
   },
   {
     "cst": "410",
@@ -1875,9 +1875,9 @@
     "credito_presumido_fornecedor": falso,
     "credito_presumido_adquirente": falso,
     "credito_operacao_antecedente": falso,
-    "reducao_cbs": 0.,
-    "reducao_ibs_uf": 0.,
-    "reducao_ibs_municipio": 0.
+    "reducao_cbs": 0.0,
+    "reducao_ibs_uf": 0.0,
+    "reducao_ibs_municipio": 0.0
   },
   {
     "cst": "410",
@@ -1895,9 +1895,9 @@
     "credito_presumido_fornecedor": falso,
     "credito_presumido_adquirente": falso,
     "credito_operacao_antecedente": falso,
-    "reducao_cbs": 0.,
-    "reducao_ibs_uf": 0.,
-    "reducao_ibs_municipio": 0.
+    "reducao_cbs": 0.0,
+    "reducao_ibs_uf": 0.0,
+    "reducao_ibs_municipio": 0.0
   },
   {
     "cst": "410",
@@ -1915,9 +1915,9 @@
     "credito_presumido_fornecedor": falso,
     "credito_presumido_adquirente": falso,
     "credito_operacao_antecedente": falso,
-    "reducao_cbs": 0.,
-    "reducao_ibs_uf": 0.,
-    "reducao_ibs_municipio": 0.
+    "reducao_cbs": 0.0,
+    "reducao_ibs_uf": 0.0,
+    "reducao_ibs_municipio": 0.0
   },
   {
     "cst": "410",
@@ -1935,9 +1935,9 @@
     "credito_presumido_fornecedor": falso,
     "credito_presumido_adquirente": falso,
     "credito_operacao_antecedente": falso,
-    "reducao_cbs": 0.,
-    "reducao_ibs_uf": 0.,
-    "reducao_ibs_municipio": 0.
+    "reducao_cbs": 0.0,
+    "reducao_ibs_uf": 0.0,
+    "reducao_ibs_municipio": 0.0
   },
   {
     "cst": "510",
@@ -1955,9 +1955,9 @@
     "credito_presumido_fornecedor": true,
     "credito_presumido_adquirente": true,
     "credito_operacao_antecedente": falso,
-    "reducao_cbs": 0.,
-    "reducao_ibs_uf": 0.,
-    "reducao_ibs_municipio": 0.
+    "reducao_cbs": 0.0,
+    "reducao_ibs_uf": 0.0,
+    "reducao_ibs_municipio": 0.0
   },
   {
     "cst": "510",
@@ -1975,9 +1975,9 @@
     "credito_presumido_fornecedor": true,
     "credito_presumido_adquirente": true,
     "credito_operacao_antecedente": falso,
-    "reducao_cbs": 60.,
-    "reducao_ibs_uf": 60.,
-    "reducao_ibs_municipio": 60.
+    "reducao_cbs": 60.0,
+    "reducao_ibs_uf": 60.0,
+    "reducao_ibs_municipio": 60.0
   },
   {
     "cst": "550",
@@ -1995,9 +1995,9 @@
     "credito_presumido_fornecedor": falso,
     "credito_presumido_adquirente": falso,
     "credito_operacao_antecedente": falso,
-    "reducao_cbs": 0.,
-    "reducao_ibs_uf": 0.,
-    "reducao_ibs_municipio": 0.
+    "reducao_cbs": 0.0,
+    "reducao_ibs_uf": 0.0,
+    "reducao_ibs_municipio": 0.0
   },
   {
     "cst": "550",
@@ -2015,9 +2015,9 @@
     "credito_presumido_fornecedor": falso,
     "credito_presumido_adquirente": falso,
     "credito_operacao_antecedente": falso,
-    "reducao_cbs": 0.,
-    "reducao_ibs_uf": 0.,
-    "reducao_ibs_municipio": 0.
+    "reducao_cbs": 0.0,
+    "reducao_ibs_uf": 0.0,
+    "reducao_ibs_municipio": 0.0
   },
   {
     "cst": "550",
@@ -2035,9 +2035,9 @@
     "credito_presumido_fornecedor": falso,
     "credito_presumido_adquirente": falso,
     "credito_operacao_antecedente": falso,
-    "reducao_cbs": 0.,
-    "reducao_ibs_uf": 0.,
-    "reducao_ibs_municipio": 0.
+    "reducao_cbs": 0.0,
+    "reducao_ibs_uf": 0.0,
+    "reducao_ibs_municipio": 0.0
   },
   {
     "cst": "550",
@@ -2055,9 +2055,9 @@
     "credito_presumido_fornecedor": falso,
     "credito_presumido_adquirente": falso,
     "credito_operacao_antecedente": falso,
-    "reducao_cbs": 0.,
-    "reducao_ibs_uf": 0.,
-    "reducao_ibs_municipio": 0.
+    "reducao_cbs": 0.0,
+    "reducao_ibs_uf": 0.0,
+    "reducao_ibs_municipio": 0.0
   },
   {
     "cst": "550",
@@ -2075,9 +2075,9 @@
     "credito_presumido_fornecedor": falso,
     "credito_presumido_adquirente": falso,
     "credito_operacao_antecedente": falso,
-    "reducao_cbs": 0.,
-    "reducao_ibs_uf": 0.,
-    "reducao_ibs_municipio": 0.
+    "reducao_cbs": 0.0,
+    "reducao_ibs_uf": 0.0,
+    "reducao_ibs_municipio": 0.0
   },
   {
     "cst": "550",
@@ -2095,9 +2095,9 @@
     "credito_presumido_fornecedor": falso,
     "credito_presumido_adquirente": falso,
     "credito_operacao_antecedente": falso,
-    "reducao_cbs": 0.,
-    "reducao_ibs_uf": 0.,
-    "reducao_ibs_municipio": 0.
+    "reducao_cbs": 0.0,
+    "reducao_ibs_uf": 0.0,
+    "reducao_ibs_municipio": 0.0
   },
   {
     "cst": "550",
@@ -2115,9 +2115,9 @@
     "credito_presumido_fornecedor": falso,
     "credito_presumido_adquirente": falso,
     "credito_operacao_antecedente": falso,
-    "reducao_cbs": 0.,
-    "reducao_ibs_uf": 0.,
-    "reducao_ibs_municipio": 0.
+    "reducao_cbs": 0.0,
+    "reducao_ibs_uf": 0.0,
+    "reducao_ibs_municipio": 0.0
   },
   {
     "cst": "550",
@@ -2135,9 +2135,9 @@
     "credito_presumido_fornecedor": falso,
     "credito_presumido_adquirente": falso,
     "credito_operacao_antecedente": falso,
-    "reducao_cbs": 0.,
-    "reducao_ibs_uf": 0.,
-    "reducao_ibs_municipio": 0.
+    "reducao_cbs": 0.0,
+    "reducao_ibs_uf": 0.0,
+    "reducao_ibs_municipio": 0.0
   },
   {
     "cst": "550",
@@ -2155,9 +2155,9 @@
     "credito_presumido_fornecedor": falso,
     "credito_presumido_adquirente": falso,
     "credito_operacao_antecedente": falso,
-    "reducao_cbs": 0.,
-    "reducao_ibs_uf": 0.,
-    "reducao_ibs_municipio": 0.
+    "reducao_cbs": 0.0,
+    "reducao_ibs_uf": 0.0,
+    "reducao_ibs_municipio": 0.0
   },
   {
     "cst": "550",
@@ -2175,9 +2175,9 @@
     "credito_presumido_fornecedor": falso,
     "credito_presumido_adquirente": falso,
     "credito_operacao_antecedente": falso,
-    "reducao_cbs": 0.,
-    "reducao_ibs_uf": 0.,
-    "reducao_ibs_municipio": 0.
+    "reducao_cbs": 0.0,
+    "reducao_ibs_uf": 0.0,
+    "reducao_ibs_municipio": 0.0
   },
   {
     "cst": "550",
@@ -2195,9 +2195,9 @@
     "credito_presumido_fornecedor": falso,
     "credito_presumido_adquirente": falso,
     "credito_operacao_antecedente": falso,
-    "reducao_cbs": 0.,
-    "reducao_ibs_uf": 0.,
-    "reducao_ibs_municipio": 0.
+    "reducao_cbs": 0.0,
+    "reducao_ibs_uf": 0.0,
+    "reducao_ibs_municipio": 0.0
   },
   {
     "cst": "550",
@@ -2215,9 +2215,9 @@
     "credito_presumido_fornecedor": falso,
     "credito_presumido_adquirente": falso,
     "credito_operacao_antecedente": falso,
-    "reducao_cbs": 0.,
-    "reducao_ibs_uf": 0.,
-    "reducao_ibs_municipio": 0.
+    "reducao_cbs": 0.0,
+    "reducao_ibs_uf": 0.0,
+    "reducao_ibs_municipio": 0.0
   },
   {
     "cst": "550",
@@ -2235,9 +2235,9 @@
     "credito_presumido_fornecedor": falso,
     "credito_presumido_adquirente": falso,
     "credito_operacao_antecedente": falso,
-    "reducao_cbs": 0.,
-    "reducao_ibs_uf": 0.,
-    "reducao_ibs_municipio": 0.
+    "reducao_cbs": 0.0,
+    "reducao_ibs_uf": 0.0,
+    "reducao_ibs_municipio": 0.0
   },
   {
     "cst": "550",
@@ -2255,9 +2255,9 @@
     "credito_presumido_fornecedor": falso,
     "credito_presumido_adquirente": falso,
     "credito_operacao_antecedente": falso,
-    "reducao_cbs": 0.,
-    "reducao_ibs_uf": 0.,
-    "reducao_ibs_municipio": 0.
+    "reducao_cbs": 0.0,
+    "reducao_ibs_uf": 0.0,
+    "reducao_ibs_municipio": 0.0
   },
   {
     "cst": "550",
@@ -2275,9 +2275,9 @@
     "credito_presumido_fornecedor": falso,
     "credito_presumido_adquirente": falso,
     "credito_operacao_antecedente": falso,
-    "reducao_cbs": 0.,
-    "reducao_ibs_uf": 0.,
-    "reducao_ibs_municipio": 0.
+    "reducao_cbs": 0.0,
+    "reducao_ibs_uf": 0.0,
+    "reducao_ibs_municipio": 0.0
   },
   {
     "cst": "550",
@@ -2295,9 +2295,9 @@
     "credito_presumido_fornecedor": falso,
     "credito_presumido_adquirente": falso,
     "credito_operacao_antecedente": falso,
-    "reducao_cbs": 0.,
-    "reducao_ibs_uf": 0.,
-    "reducao_ibs_municipio": 0.
+    "reducao_cbs": 0.0,
+    "reducao_ibs_uf": 0.0,
+    "reducao_ibs_municipio": 0.0
   },
   {
     "cst": "550",
@@ -2315,9 +2315,9 @@
     "credito_presumido_fornecedor": falso,
     "credito_presumido_adquirente": falso,
     "credito_operacao_antecedente": falso,
-    "reducao_cbs": 0.,
-    "reducao_ibs_uf": 0.,
-    "reducao_ibs_municipio": 0.
+    "reducao_cbs": 0.0,
+    "reducao_ibs_uf": 0.0,
+    "reducao_ibs_municipio": 0.0
   },
   {
     "cst": "550",
@@ -2335,9 +2335,9 @@
     "credito_presumido_fornecedor": falso,
     "credito_presumido_adquirente": falso,
     "credito_operacao_antecedente": falso,
-    "reducao_cbs": 0.,
-    "reducao_ibs_uf": 0.,
-    "reducao_ibs_municipio": 0.
+    "reducao_cbs": 0.0,
+    "reducao_ibs_uf": 0.0,
+    "reducao_ibs_municipio": 0.0
   },
   {
     "cst": "550",
@@ -2355,9 +2355,9 @@
     "credito_presumido_fornecedor": falso,
     "credito_presumido_adquirente": falso,
     "credito_operacao_antecedente": falso,
-    "reducao_cbs": 0.,
-    "reducao_ibs_uf": 0.,
-    "reducao_ibs_municipio": 0.
+    "reducao_cbs": 0.0,
+    "reducao_ibs_uf": 0.0,
+    "reducao_ibs_municipio": 0.0
   },
   {
     "cst": "550",
@@ -2375,9 +2375,9 @@
     "credito_presumido_fornecedor": falso,
     "credito_presumido_adquirente": falso,
     "credito_operacao_antecedente": falso,
-    "reducao_cbs": 0.,
-    "reducao_ibs_uf": 0.,
-    "reducao_ibs_municipio": 0.
+    "reducao_cbs": 0.0,
+    "reducao_ibs_uf": 0.0,
+    "reducao_ibs_municipio": 0.0
   },
   {
     "cst": "620",
@@ -2395,9 +2395,9 @@
     "credito_presumido_fornecedor": falso,
     "credito_presumido_adquirente": falso,
     "credito_operacao_antecedente": falso,
-    "reducao_cbs": 0.,
-    "reducao_ibs_uf": 0.,
-    "reducao_ibs_municipio": 0.
+    "reducao_cbs": 0.0,
+    "reducao_ibs_uf": 0.0,
+    "reducao_ibs_municipio": 0.0
   },
   {
     "cst": "620",
@@ -2415,9 +2415,9 @@
     "credito_presumido_fornecedor": falso,
     "credito_presumido_adquirente": falso,
     "credito_operacao_antecedente": falso,
-    "reducao_cbs": 0.,
-    "reducao_ibs_uf": 0.,
-    "reducao_ibs_municipio": 0.
+    "reducao_cbs": 0.0,
+    "reducao_ibs_uf": 0.0,
+    "reducao_ibs_municipio": 0.0
   },
   {
     "cst": "620",
@@ -2435,9 +2435,9 @@
     "credito_presumido_fornecedor": falso,
     "credito_presumido_adquirente": falso,
     "credito_operacao_antecedente": falso,
-    "reducao_cbs": 0.,
-    "reducao_ibs_uf": 0.,
-    "reducao_ibs_municipio": 0.
+    "reducao_cbs": 0.0,
+    "reducao_ibs_uf": 0.0,
+    "reducao_ibs_municipio": 0.0
   },
   {
     "cst": "620",
@@ -2455,9 +2455,9 @@
     "credito_presumido_fornecedor": falso,
     "credito_presumido_adquirente": falso,
     "credito_operacao_antecedente": falso,
-    "reducao_cbs": 0.,
-    "reducao_ibs_uf": 0.,
-    "reducao_ibs_municipio": 0.
+    "reducao_cbs": 0.0,
+    "reducao_ibs_uf": 0.0,
+    "reducao_ibs_municipio": 0.0
   },
   {
     "cst": "620",
@@ -2475,9 +2475,9 @@
     "credito_presumido_fornecedor": falso,
     "credito_presumido_adquirente": falso,
     "credito_operacao_antecedente": falso,
-    "reducao_cbs": 0.,
-    "reducao_ibs_uf": 0.,
-    "reducao_ibs_municipio": 0.
+    "reducao_cbs": 0.0,
+    "reducao_ibs_uf": 0.0,
+    "reducao_ibs_municipio": 0.0
   },
   {
     "cst": "620",
@@ -2495,9 +2495,9 @@
     "credito_presumido_fornecedor": falso,
     "credito_presumido_adquirente": falso,
     "credito_operacao_antecedente": falso,
-    "reducao_cbs": 0.,
-    "reducao_ibs_uf": 0.,
-    "reducao_ibs_municipio": 0.
+    "reducao_cbs": 0.0,
+    "reducao_ibs_uf": 0.0,
+    "reducao_ibs_municipio": 0.0
   },
   {
     "cst": "800",
@@ -2515,9 +2515,9 @@
     "credito_presumido_fornecedor": falso,
     "credito_presumido_adquirente": falso,
     "credito_operacao_antecedente": falso,
-    "reducao_cbs": 0.,
-    "reducao_ibs_uf": 0.,
-    "reducao_ibs_municipio": 0.
+    "reducao_cbs": 0.0,
+    "reducao_ibs_uf": 0.0,
+    "reducao_ibs_municipio": 0.0
   },
   {
     "cst": "800",
@@ -2535,9 +2535,9 @@
     "credito_presumido_fornecedor": falso,
     "credito_presumido_adquirente": falso,
     "credito_operacao_antecedente": falso,
-    "reducao_cbs": 0.,
-    "reducao_ibs_uf": 0.,
-    "reducao_ibs_municipio": 0.
+    "reducao_cbs": 0.0,
+    "reducao_ibs_uf": 0.0,
+    "reducao_ibs_municipio": 0.0
   },
   {
     "cst": "810",
@@ -2555,9 +2555,9 @@
     "credito_presumido_fornecedor": true,
     "credito_presumido_adquirente": true,
     "credito_operacao_antecedente": falso,
-    "reducao_cbs": 0.,
-    "reducao_ibs_uf": 0.,
-    "reducao_ibs_municipio": 0.
+    "reducao_cbs": 0.0,
+    "reducao_ibs_uf": 0.0,
+    "reducao_ibs_municipio": 0.0
   },
   {
     "cst": "810",
@@ -2575,9 +2575,9 @@
     "credito_presumido_fornecedor": falso,
     "credito_presumido_adquirente": falso,
     "credito_operacao_antecedente": falso,
-    "reducao_cbs": 0.,
-    "reducao_ibs_uf": 0.,
-    "reducao_ibs_municipio": 0.
+    "reducao_cbs": 0.0,
+    "reducao_ibs_uf": 0.0,
+    "reducao_ibs_municipio": 0.0
   },
   {
     "cst": "810",
@@ -2595,9 +2595,9 @@
     "credito_presumido_fornecedor": falso,
     "credito_presumido_adquirente": falso,
     "credito_operacao_antecedente": falso,
-    "reducao_cbs": 0.,
-    "reducao_ibs_uf": 0.,
-    "reducao_ibs_municipio": 0.
+    "reducao_cbs": 0.0,
+    "reducao_ibs_uf": 0.0,
+    "reducao_ibs_municipio": 0.0
   },
   {
     "cst": "810",
@@ -2615,9 +2615,9 @@
     "credito_presumido_fornecedor": falso,
     "credito_presumido_adquirente": falso,
     "credito_operacao_antecedente": falso,
-    "reducao_cbs": 0.,
-    "reducao_ibs_uf": 0.,
-    "reducao_ibs_municipio": 0.
+    "reducao_cbs": 0.0,
+    "reducao_ibs_uf": 0.0,
+    "reducao_ibs_municipio": 0.0
   },
   {
     "cst": "820",
@@ -2635,9 +2635,9 @@
     "credito_presumido_fornecedor": falso,
     "credito_presumido_adquirente": falso,
     "credito_operacao_antecedente": falso,
-    "reducao_cbs": 0.,
-    "reducao_ibs_uf": 0.,
-    "reducao_ibs_municipio": 0.
+    "reducao_cbs": 0.0,
+    "reducao_ibs_uf": 0.0,
+    "reducao_ibs_municipio": 0.0
   },
   {
     "cst": "820",
@@ -2655,9 +2655,9 @@
     "credito_presumido_fornecedor": falso,
     "credito_presumido_adquirente": falso,
     "credito_operacao_antecedente": falso,
-    "reducao_cbs": 0.,
-    "reducao_ibs_uf": 0.,
-    "reducao_ibs_municipio": 0.
+    "reducao_cbs": 0.0,
+    "reducao_ibs_uf": 0.0,
+    "reducao_ibs_municipio": 0.0
   },
   {
     "cst": "820",
@@ -2675,9 +2675,9 @@
     "credito_presumido_fornecedor": falso,
     "credito_presumido_adquirente": falso,
     "credito_operacao_antecedente": falso,
-    "reducao_cbs": 0.,
-    "reducao_ibs_uf": 0.,
-    "reducao_ibs_municipio": 0.
+    "reducao_cbs": 0.0,
+    "reducao_ibs_uf": 0.0,
+    "reducao_ibs_municipio": 0.0
   },
   {
     "cst": "820",
@@ -2695,9 +2695,9 @@
     "credito_presumido_fornecedor": falso,
     "credito_presumido_adquirente": falso,
     "credito_operacao_antecedente": falso,
-    "reducao_cbs": 0.,
-    "reducao_ibs_uf": 0.,
-    "reducao_ibs_municipio": 0.
+    "reducao_cbs": 0.0,
+    "reducao_ibs_uf": 0.0,
+    "reducao_ibs_municipio": 0.0
   },
   {
     "cst": "820",
@@ -2715,9 +2715,9 @@
     "credito_presumido_fornecedor": falso,
     "credito_presumido_adquirente": falso,
     "credito_operacao_antecedente": falso,
-    "reducao_cbs": 0.,
-    "reducao_ibs_uf": 0.,
-    "reducao_ibs_municipio": 0.
+    "reducao_cbs": 0.0,
+    "reducao_ibs_uf": 0.0,
+    "reducao_ibs_municipio": 0.0
   },
   {
     "cst": "820",
@@ -2735,9 +2735,9 @@
     "credito_presumido_fornecedor": falso,
     "credito_presumido_adquirente": falso,
     "credito_operacao_antecedente": falso,
-    "reducao_cbs": 0.,
-    "reducao_ibs_uf": 0.,
-    "reducao_ibs_municipio": 0.
+    "reducao_cbs": 0.0,
+    "reducao_ibs_uf": 0.0,
+    "reducao_ibs_municipio": 0.0
   },
   {
     "cst": "830",
@@ -2755,9 +2755,10 @@
     "credito_presumido_fornecedor": falso,
     "credito_presumido_adquirente": falso,
     "credito_operacao_antecedente": falso,
-    "reducao_cbs": 0.,
-    "reducao_ibs_uf": 0.,
-    "reducao_ibs_municipio": 0.
+    "reducao_cbs": 0.0,
+    "reducao_ibs_uf": 0.0,
+    "reducao_ibs_municipio": 0.0
   }
 
 ]
+
